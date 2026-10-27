@@ -59,7 +59,8 @@ Pup 的**自主追蝴蝶**与**用户触发的鼠标交互**来自不同的行�
 
 ## Windows 原型与演示 · Download & Demo
 
-**Windows 独立运行包：尚未公开发布。** 完成 Release 导出和独立运行检查后，将通过本仓库的 **GitHub Releases** 提供。
+**Windows 独立运行包：[下载 v0.1.0-preview（Windows x64）](https://github.com/pupupu20000107/pup2-showcase/releases/tag/v0.1.0-preview)**  
+包含独立运行文件、使用说明、第三方许可证声明与 SHA-256 校验文件。
 
 实际运行截图、交互演示以及作品集PDF将逐步补充。此公开仓库用于**项目展示与原型分发**，不包含完整的私人开发源码或内部工作记录。
 
